@@ -1,9 +1,8 @@
-import { Provider } from 'react-redux';
-import './App.css';
-import UserDetails from './Pages/MUI_Formik/UserDetails';
-import UserTable from './Pages/MUI_Formik/UserTable';
-import FormComponent from './Pages/UseFormWork';
-import store from './redux/store';
+import { Provider } from "react-redux";
+import "./App.css";
+import UserDetails from "./Pages/MUI_Formik/UserDetails";
+import FormComponent from "./Pages/UseFormWork";
+import store from "./redux/store";
 
 function App() {
   return (
